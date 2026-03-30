@@ -384,7 +384,12 @@
     </visualElement>
     <visualElement>
       <elementName>ShiftRight8BITs.dig</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Shift Right</string>
+        </entry>
+      </elementAttributes>
       <pos x="-780" y="-1800"/>
     </visualElement>
   </visualElements>
