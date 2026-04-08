@@ -316,7 +316,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Resultado</string>
+          <string>Resultado AC</string>
         </entry>
         <entry>
           <string>Bits</string>
@@ -334,7 +334,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Resultado</string>
+          <string>Resultado MQ</string>
         </entry>
         <entry>
           <string>Bits</string>
